@@ -16,6 +16,8 @@ I want to become a Front-End Developer!
 - CSS/SCSS
 - JavaScript (Basic)
 - Git
+- Webpack
+- Gulp
 
 ## __Code Example__
 ```
